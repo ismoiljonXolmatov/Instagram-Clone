@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "depositphotos_109792846-stock-illustration-chat-app-icon-template-mobile.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
